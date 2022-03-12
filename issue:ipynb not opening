@@ -2,5 +2,5 @@ Try to open that notebook that you want using nbviewer online, you don't need to
 
 Open "https://nbviewer.jupyter.org/"
 Paste the link to your notebook, (e.g. "https://colab.research.google.com/drive/1ALK8w81H7mi23tfeWqiwPqw98VB42iKl#scrollTo=2OuCNS22aoVW") there 
-and then you get ""
+and then you get "https://nbviewer.org/github/VIVEK818713/Data-Cleaning/blob/main/Outliers.ipynb"
 This site nbviewer works independently of github.
